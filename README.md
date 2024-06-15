@@ -3,11 +3,11 @@
 
 以下是Discord原神辅助邀请函/Below is the Discord Genshin Impact Assistance Invitation
 
-<a href="https://discord.gg/akebi" style="color: #007acc; font-size: 50px;">AK</a>
+<a href="https://discord.gg/akebi" style="color: #007acc; font-size: 50px;">Akebi</a>
 
-<a href="https://discord.com/invite/3hKJbQdC" style="color: #007acc; font-size: 50px;">BK</a>
+<a href="https://discord.com/invite/3hKJbQdC" style="color: #007acc; font-size: 50px;">Bkebi-Chai</a>
 
-<a href="https://discord.gg/JjjDrBDv" style="color: #007acc; font-size: 50px;">KO</a>
+<a href="https://discord.gg/JjjDrBDv" style="color: #007acc; font-size: 50px;">KO/Kittn Bosd</a>
 
 <hr style="height:5px; border:none; color:#000; background-color:#000;">
 
