@@ -5,9 +5,15 @@
 
 <a href="https://discord.gg/akebi" style="color: #007acc; font-size: 50px;">Akebi</a>
 
-<a href="https://discord.com/invite/3hKJbQdC" style="color: #007acc; font-size: 50px;">Bkebi-Chai</a>
+![图片描述](https://cdn.discordapp.com/banners/440536354544156683/b961b40aed1216e1c1b3c37be9c87dbd.webp?size=2048)
 
-<a href="https://discord.gg/JjjDrBDv" style="color: #007acc; font-size: 50px;">KO/Kittn Bosd</a>
+<a href="https://discord.com/invite/3hKJbQdC" style="color: #007acc; font-size: 50px;">Bkebi-Chat</a>
+
+![图片描述](https://cdn.discordapp.com/icons/1026295403282436097/67b6a3ba3b4336be829fa7507dd459dd.webp?size=2048)
+
+<a href="https://discord.gg/JjjDrBDv" style="color: #007acc; font-size: 50px;">KO/Kitten Bods</a>
+
+![图片描述](https://cdn.discordapp.com/banners/1069057220802781265/a_bdbfc91cb28b9a028bab8e906f5ad68c.gif?size=2048)
 
 <hr style="height:5px; border:none; color:#000; background-color:#000;">
 
