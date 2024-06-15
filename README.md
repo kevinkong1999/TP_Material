@@ -15,6 +15,8 @@
 
 ![图片描述](https://cdn.discordapp.com/banners/1069057220802781265/a_bdbfc91cb28b9a028bab8e906f5ad68c.gif?size=2048)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkong1999)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr style="height:5px; border:none; color:#000; background-color:#000;">
 
 <p align="center" style="font-size: 50px;"><b>文件密码/file password:cat_1999325</b></p>
